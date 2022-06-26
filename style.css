@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lobster&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #35353F;
+    font-family: 'Lobster', 'cursive';
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    line-height: .5;
+    text-align: center;
+}
+
+.dice-container{
+   display: flex;
+   justify-content: center;
+}
+.dice-container img{
+    width: 200px;
+    margin: 0 20px 20px;
+}
+
+h1{
+    font-size: 7rem;
+    color: rgb(32, 163, 139);
+}
+.dice-container p{
+    color:rgb(32, 163, 139) ;
+    font-size: 20px;
+}
+.footer{
+    margin: 2rem 0;
+    color: aliceblue;
+    font-size: 14px;
+}
